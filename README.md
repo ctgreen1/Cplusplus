@@ -1,2 +1,2 @@
-# C-
+# C++
 Projects in C++
